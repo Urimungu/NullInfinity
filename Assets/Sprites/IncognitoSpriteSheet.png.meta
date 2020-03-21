@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: baae52789d60bd643a117bc11ae41313
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IncognitoSpriteSheet_0
+    21300002: IncognitoSpriteSheet_1
+    21300004: IncognitoSpriteSheet_2
+    21300006: IncognitoSpriteSheet_3
+    21300008: IncognitoSpriteSheet_4
+    21300010: IncognitoSpriteSheet_5
+    21300012: IncognitoSpriteSheet_6
+    21300014: IncognitoSpriteSheet_7
+    21300016: IncognitoSpriteSheet_8
+    21300018: IncognitoSpriteSheet_9
+    21300020: IncognitoSpriteSheet_10
+    21300022: IncognitoSpriteSheet_11
+    21300024: IncognitoSpriteSheet_12
+    21300026: IncognitoSpriteSheet_13
+    21300028: IncognitoSpriteSheet_14
+    21300030: IncognitoSpriteSheet_15
+    21300032: IncognitoSpriteSheet_16
+    21300034: IncognitoSpriteSheet_17
+    21300036: IncognitoSpriteSheet_18
+    21300038: IncognitoSpriteSheet_19
+    21300040: IncognitoSpriteSheet_20
+    21300042: IncognitoSpriteSheet_21
+    21300044: IncognitoSpriteSheet_22
+    21300046: IncognitoSpriteSheet_23
+    21300048: IncognitoSpriteSheet_24
+    21300050: IncognitoSpriteSheet_25
+    21300052: IncognitoSpriteSheet_26
+    21300054: IncognitoSpriteSheet_27
+    21300056: IncognitoSpriteSheet_28
+    21300058: IncognitoSpriteSheet_29
+    21300060: IncognitoSpriteSheet_30
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 439
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27255e4c5bd39b64c82c02459919c05f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 439
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ccb1c762280e94d82736436d96f133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 439
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d644ad2222abd4e439924ab1a8d119ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 439
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de1d3601824c8e4996a5f777224b26d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 362
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b16ac95dd4e8d4ebc857dc1afe352e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 362
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f712cd63bb14ab3488e0f2cb202e5bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 362
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99c44adad9cf354bbec190990c9dbd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 362
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce55ce044fa1a54992c84621c6b6dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 362
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b16a160ace9454fb4aa930ec0e02f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 362
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012c075909e9e024b843f94975e2cc32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 362
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79fdef9df924f246ab457c24e0c2924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 362
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974cdfed0e9d9a9489094d08517b783d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 288
+        width: 64
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1527e62a3f8ed941b032a41cfeb8d06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 288
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d4bdbc5f9b9184db56e087d89ae344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 287
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f4ff546c33ebe43bc03d5090854d14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 287
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e464003f440e34da70b965228eb0f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 287
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad634ab71f9d040aa71131157f01b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 287
+        width: 64
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a69c52b3584972489ddf9830cd13d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 220
+        width: 64
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295bfb2813e1fd84eae79ee56c05b99e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 220
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e14f8d7529d49b47a19ae18530ca745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 219
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c7d5452b397c4cb6c03c56c0966eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 219
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a1a1c69a1efa44af11ee5e7ae8987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 219
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bea758e9e9d67d469f3ee8ded3274e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 219
+        width: 64
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847619cd562465e4889991286aacdb9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 143
+        width: 54
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368d7d8132bac4499b2ba9ea53da9c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 143
+        width: 54
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83fc6c5e33cde74c979bd265d3cb814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 138
+        width: 44
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e65b67350a7d8349a6d4d361ca77db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 139
+        width: 45
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06010c7093806489c1628cae7bfa8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 139
+        width: 44
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ec52fa1171dc64392139d9363afa89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 146
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ecccad99de3b4d81a6c87139e3ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IncognitoSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 146
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a15b7b9f0185942b64039bff1013c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a41ddc4459b947c4fb813bfee0b88f11
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
